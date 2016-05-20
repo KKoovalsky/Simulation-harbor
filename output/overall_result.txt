@@ -1,0 +1,24 @@
+Symulacja przeprowadzona dla intensywnoœci L: 0.09
+
+Œredni czas oczekiwania dla statku typu:
+RoRo: 8.37488 min.
+Kontenerowca I typu: 6.92421 min.
+Kontenerowca II typu: 285.717 min.
+Masowca: 16.7496 min.
+Zbiornikowca: 183.376 min.
+
+Tor 1, procent wykorzystania: 76.923%.
+Tor 2, procent wykorzystania: 75.5996%.
+Tor 3, procent wykorzystania: 76.6447%.
+Tor 4, procent wykorzystania: 86.6093%.
+
+Wykorzystanie procentowe narzêdzi: 
+Trap/Rampa: 38.1287%.
+DŸwig: 24.8651%.
+Taœmoci¹g: 57.2366%.
+Prowadnica: 85.1319%.
+Ruroci¹g: 85.4933%.
+
+Maksymalny czas oczekiwania na wp³yniêcie do kana³u: 896.662 min.
+Œredni czas oczekiwania na wp³yniêcie do kana³u: 111.348 min.
+
